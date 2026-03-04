@@ -1,0 +1,18 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+workdir_swap/
+result*.mp4
+*.aac
+
+.idea/
+.vscode/
+
+# Local datasets and generated media can be very large.
+video_datas/
+photo/
+
+# Keep docs and source tracked; ignore local helper noise.
+*.log
